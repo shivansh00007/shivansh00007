@@ -1,16 +1,21 @@
-## Hi there 👋
+Hey there! I'm Shivansh 👋
 
-<!--
-**shivansh00007/shivansh00007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Web Development & DSA  
+- 📘 I love building small projects that solve real problems  
+- 🧠 Focused on learning React, Node.js, and sharpening my problem-solving skills  
+- 🚀 Long-term goal: Become a Full Stack Developer and contribute to open-source  
 
-Here are some ideas to get you started:
+ Some things I love:
+- Clean, minimal code  
+- Late-night debugging (don’t ask why)  
+- Exploring new tech on weekends  
+- Sharing memes about coding struggles  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/shivansh-upadhyay-698b56354)
+[![LeetCode](https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/Shivansh_Upadhyay07)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/shivansh00007)
+
+---
+
+P.S. Commit history shows my vibe. Let’s keep the green streak alive!
