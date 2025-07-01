@@ -12,7 +12,7 @@ Hey there! I'm Shivansh 👋
 - Sharing memes about coding struggles  
 
 Let's connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/shivansh-upadhyay-698b56354)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivansh-upadhyay-698b56354)
 [![LeetCode](https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/Shivansh_Upadhyay07)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/shivansh00007)
 
